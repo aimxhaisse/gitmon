@@ -2,6 +2,8 @@ owner: aimxhaisse
 repo: gitmon
 
 sites:
+  - name: SBRK
+    url: https://sbrk.org
   - name: BLZ Audio
     url: https://blz.sbrk.org
   - name: MXS Blog
