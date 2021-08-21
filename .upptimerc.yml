@@ -4,6 +4,8 @@ repo: gitmon
 sites:
   - name: SBRK
     url: https://sbrk.org
+  - name: AN AER
+    url: https://an-aer.bzh
   - name: BLZ Audio
     url: https://blz.sbrk.org
   - name: MXS Blog
