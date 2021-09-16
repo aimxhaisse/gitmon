@@ -22,18 +22,20 @@
     "url": "https://an-aer.bzh",
     "icon": "https://favicons.githubusercontent.com/an-aer.bzh",
     "slug": "an-aer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 872,
-    "timeDay": 1236,
-    "timeWeek": 1000,
-    "timeMonth": 872,
-    "timeYear": 872,
-    "dailyMinutesDown": {}
+    "time": 862,
+    "timeDay": 908,
+    "timeWeek": 948,
+    "timeMonth": 862,
+    "timeYear": 862,
+    "dailyMinutesDown": {
+      "2021-09-16": 0
+    }
   },
   {
     "name": "BLZ Audio",
