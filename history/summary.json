@@ -4,29 +4,31 @@
     "url": "https://sbrk.org",
     "icon": "https://favicons.githubusercontent.com/sbrk.org",
     "slug": "sbrk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 608,
     "timeDay": 382,
     "timeWeek": 634,
     "timeMonth": 655,
     "timeYear": 608,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 3
+    }
   },
   {
     "name": "AN AER",
     "url": "https://an-aer.bzh",
     "icon": "https://favicons.githubusercontent.com/an-aer.bzh",
     "slug": "an-aer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 917,
     "timeDay": 717,
@@ -34,6 +36,7 @@
     "timeMonth": 979,
     "timeYear": 917,
     "dailyMinutesDown": {
+      "2021-10-13": 3,
       "2021-09-16": 23
     }
   },
@@ -42,28 +45,30 @@
     "url": "https://blz.sbrk.org",
     "icon": "https://favicons.githubusercontent.com/blz.sbrk.org",
     "slug": "blz-audio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 610,
     "timeDay": 368,
     "timeWeek": 696,
     "timeMonth": 660,
     "timeYear": 610,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 2
+    }
   },
   {
     "name": "MXS Blog",
     "url": "https://mxs.sbrk.org/",
     "icon": "https://favicons.githubusercontent.com/mxs.sbrk.org",
     "slug": "mxs-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 554,
@@ -71,17 +76,19 @@
     "timeWeek": 582,
     "timeMonth": 596,
     "timeYear": 554,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 2
+    }
   },
   {
     "name": "MXS Landing",
     "url": "https://landing.mxs.sbrk.org/",
     "icon": "https://favicons.githubusercontent.com/landing.mxs.sbrk.org",
     "slug": "mxs-landing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 589,
@@ -89,17 +96,19 @@
     "timeWeek": 797,
     "timeMonth": 634,
     "timeYear": 589,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 1
+    }
   },
   {
     "name": "MXS Detours",
     "url": "https://detours.sbrk.org",
     "icon": "https://favicons.githubusercontent.com/detours.sbrk.org",
     "slug": "mxs-detours",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 542,
@@ -107,16 +116,18 @@
     "timeWeek": 546,
     "timeMonth": 569,
     "timeYear": 542,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 1
+    }
   },
   {
     "name": "MXS Sandwalker",
     "url": "https://sandwalker.sbrk.org/",
     "icon": "https://favicons.githubusercontent.com/sandwalker.sbrk.org",
     "slug": "mxs-sandwalker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,6 +136,8 @@
     "timeWeek": 656,
     "timeMonth": 615,
     "timeYear": 565,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 0
+    }
   }
 ]
