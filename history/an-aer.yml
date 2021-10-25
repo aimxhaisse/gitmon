@@ -1,7 +1,7 @@
 url: https://an-aer.bzh
-status: up
-code: 200
-responseTime: 989
-lastUpdated: 2021-10-24T23:21:45.725Z
+status: down
+code: 502
+responseTime: 692
+lastUpdated: 2021-10-25T06:25:39.017Z
 startTime: Sat Aug 21 2021 21:41:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
