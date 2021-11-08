@@ -4,9 +4,9 @@
     "url": "https://sbrk.org",
     "icon": "https://favicons.githubusercontent.com/sbrk.org",
     "slug": "sbrk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
@@ -16,6 +16,7 @@
     "timeMonth": 732,
     "timeYear": 653,
     "dailyMinutesDown": {
+      "2021-11-08": 0,
       "2021-10-13": 45
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://an-aer.bzh",
     "icon": "https://favicons.githubusercontent.com/an-aer.bzh",
     "slug": "an-aer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.86%",
     "time": 996,
@@ -36,6 +37,7 @@
     "timeMonth": 1111,
     "timeYear": 996,
     "dailyMinutesDown": {
+      "2021-11-08": 0,
       "2021-11-01": 24,
       "2021-10-28": 23,
       "2021-10-25": 24,
@@ -49,9 +51,9 @@
     "url": "https://blz.sbrk.org",
     "icon": "https://favicons.githubusercontent.com/blz.sbrk.org",
     "slug": "blz-audio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.90%",
@@ -61,6 +63,7 @@
     "timeMonth": 765,
     "timeYear": 675,
     "dailyMinutesDown": {
+      "2021-11-08": 0,
       "2021-11-02": 23,
       "2021-10-30": 23,
       "2021-10-27": 23,
@@ -72,9 +75,9 @@
     "url": "https://mxs.sbrk.org/",
     "icon": "https://favicons.githubusercontent.com/mxs.sbrk.org",
     "slug": "mxs-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
@@ -84,6 +87,7 @@
     "timeMonth": 619,
     "timeYear": 575,
     "dailyMinutesDown": {
+      "2021-11-08": 0,
       "2021-10-13": 44
     }
   },
@@ -92,9 +96,9 @@
     "url": "https://landing.mxs.sbrk.org/",
     "icon": "https://favicons.githubusercontent.com/landing.mxs.sbrk.org",
     "slug": "mxs-landing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
@@ -104,6 +108,7 @@
     "timeMonth": 597,
     "timeYear": 589,
     "dailyMinutesDown": {
+      "2021-11-08": 0,
       "2021-10-13": 43
     }
   },
@@ -112,9 +117,9 @@
     "url": "https://detours.sbrk.org",
     "icon": "https://favicons.githubusercontent.com/detours.sbrk.org",
     "slug": "mxs-detours",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
@@ -124,6 +129,7 @@
     "timeMonth": 599,
     "timeYear": 562,
     "dailyMinutesDown": {
+      "2021-11-08": 0,
       "2021-10-13": 43
     }
   },
@@ -132,9 +138,9 @@
     "url": "https://sandwalker.sbrk.org/",
     "icon": "https://favicons.githubusercontent.com/sandwalker.sbrk.org",
     "slug": "mxs-sandwalker",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
@@ -144,6 +150,7 @@
     "timeMonth": 740,
     "timeYear": 624,
     "dailyMinutesDown": {
+      "2021-11-08": 0,
       "2021-10-13": 42
     }
   }
