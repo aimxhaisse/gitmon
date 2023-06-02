@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 640,
-    "timeDay": 525,
-    "timeWeek": 579,
-    "timeMonth": 587,
-    "timeYear": 640,
+    "timeDay": 750,
+    "timeWeek": 604,
+    "timeMonth": 595,
+    "timeYear": 639,
     "dailyMinutesDown": {
       "2022-08-11": 810
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 942,
-    "timeDay": 1005,
-    "timeWeek": 1053,
-    "timeMonth": 1067,
-    "timeYear": 921,
+    "time": 943,
+    "timeDay": 1281,
+    "timeWeek": 1093,
+    "timeMonth": 1071,
+    "timeYear": 922,
     "dailyMinutesDown": {
       "2022-09-20": 32,
       "2022-08-11": 810
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 610,
-    "timeDay": 471,
-    "timeWeek": 575,
-    "timeMonth": 577,
+    "timeDay": 797,
+    "timeWeek": 610,
+    "timeMonth": 583,
     "timeYear": 609,
     "dailyMinutesDown": {
       "2022-09-20": 32,
@@ -74,10 +74,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 594,
-    "timeDay": 460,
-    "timeWeek": 491,
-    "timeMonth": 570,
-    "timeYear": 598,
+    "timeDay": 639,
+    "timeWeek": 513,
+    "timeMonth": 572,
+    "timeYear": 597,
     "dailyMinutesDown": {
       "2023-04-24": 28,
       "2022-09-20": 31,
@@ -96,9 +96,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 564,
-    "timeDay": 365,
-    "timeWeek": 510,
-    "timeMonth": 571,
+    "timeDay": 801,
+    "timeWeek": 575,
+    "timeMonth": 574,
     "timeYear": 565,
     "dailyMinutesDown": {
       "2023-04-24": 28,
@@ -118,9 +118,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 572,
-    "timeDay": 504,
-    "timeWeek": 531,
-    "timeMonth": 547,
+    "timeDay": 603,
+    "timeWeek": 543,
+    "timeMonth": 546,
     "timeYear": 578,
     "dailyMinutesDown": {
       "2022-09-20": 30,
@@ -133,18 +133,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sandwalker.sbrk.org.ico",
     "slug": "mxs-sandwalker",
     "status": "down",
-    "uptime": "76.94%",
+    "uptime": "76.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "59.42%",
+    "uptimeYear": "59.19%",
     "time": 562,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 553,
     "dailyMinutesDown": {
-      "2023-06-01": 28,
+      "2023-06-02": 23,
+      "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
@@ -293,8 +294,7 @@
       "2023-01-06": 1440,
       "2023-01-05": 1440,
       "2023-01-04": 894,
-      "2022-07-24": 29,
-      "2022-06-02": 446
+      "2022-07-24": 29
     }
   }
 ]
