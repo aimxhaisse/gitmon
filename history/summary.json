@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "84.14%",
     "time": 601,
-    "timeDay": 594,
-    "timeWeek": 526,
+    "timeDay": 521,
+    "timeWeek": 511,
     "timeMonth": 571,
     "timeYear": 609,
     "dailyMinutesDown": {
@@ -90,10 +90,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.56%",
     "time": 955,
-    "timeDay": 613,
-    "timeWeek": 673,
-    "timeMonth": 738,
-    "timeYear": 955,
+    "timeDay": 607,
+    "timeWeek": 629,
+    "timeMonth": 742,
+    "timeYear": 954,
     "dailyMinutesDown": {
       "2024-04-04": 33,
       "2023-07-26": 966,
@@ -120,8 +120,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 597,
-    "timeDay": 527,
-    "timeWeek": 1183,
+    "timeDay": 524,
+    "timeWeek": 1126,
     "timeMonth": 708,
     "timeYear": 606,
     "dailyMinutesDown": {
@@ -140,8 +140,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 577,
-    "timeDay": 356,
-    "timeWeek": 515,
+    "timeDay": 530,
+    "timeWeek": 502,
     "timeMonth": 532,
     "timeYear": 567,
     "dailyMinutesDown": {
@@ -159,11 +159,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 558,
-    "timeDay": 468,
-    "timeWeek": 552,
-    "timeMonth": 580,
-    "timeYear": 564,
+    "time": 559,
+    "timeDay": 550,
+    "timeWeek": 522,
+    "timeMonth": 581,
+    "timeYear": 565,
     "dailyMinutesDown": {
       "2023-06-23": 92
     }
@@ -180,8 +180,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 552,
-    "timeDay": 468,
-    "timeWeek": 491,
+    "timeDay": 523,
+    "timeWeek": 477,
     "timeMonth": 511,
     "timeYear": 544,
     "dailyMinutesDown": {
@@ -194,7 +194,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sandwalker.sbrk.org.ico",
     "slug": "mxs-sandwalker",
     "status": "down",
-    "uptime": "49.55%",
+    "uptime": "49.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -205,7 +205,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-25": 21,
+      "2024-05-26": 24,
+      "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
@@ -568,8 +569,7 @@
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
-      "2023-05-28": 1440,
-      "2023-05-27": 1440
+      "2023-05-28": 1440
     }
   }
 ]
