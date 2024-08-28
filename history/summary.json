@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sbrk.org.ico",
     "slug": "sbrk",
     "status": "up",
-    "uptime": "94.65%",
+    "uptime": "94.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.74%",
-    "time": 610,
-    "timeDay": 530,
-    "timeWeek": 674,
-    "timeMonth": 644,
+    "uptimeYear": "98.01%",
+    "time": 609,
+    "timeDay": 748,
+    "timeWeek": 672,
+    "timeMonth": 651,
     "timeYear": 612,
     "dailyMinutesDown": {
       "2023-09-04": 395,
@@ -21,8 +21,7 @@
       "2023-09-02": 1440,
       "2023-09-01": 1440,
       "2023-08-31": 1440,
-      "2023-08-30": 1440,
-      "2023-08-29": 1440
+      "2023-08-30": 1440
     }
   },
   {
@@ -36,10 +35,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
-    "time": 926,
-    "timeDay": 530,
-    "timeWeek": 817,
-    "timeMonth": 789,
+    "time": 927,
+    "timeDay": 916,
+    "timeWeek": 813,
+    "timeMonth": 798,
     "timeYear": 873,
     "dailyMinutesDown": {
       "2024-07-16": 488,
@@ -59,10 +58,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 620,
-    "timeDay": 515,
-    "timeWeek": 607,
-    "timeMonth": 665,
-    "timeYear": 631,
+    "timeDay": 735,
+    "timeWeek": 606,
+    "timeMonth": 673,
+    "timeYear": 632,
     "dailyMinutesDown": {}
   },
   {
@@ -77,10 +76,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 575,
-    "timeDay": 526,
-    "timeWeek": 637,
-    "timeMonth": 613,
-    "timeYear": 569,
+    "timeDay": 793,
+    "timeWeek": 648,
+    "timeMonth": 622,
+    "timeYear": 570,
     "dailyMinutesDown": {}
   },
   {
@@ -95,9 +94,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 568,
-    "timeDay": 513,
-    "timeWeek": 559,
-    "timeMonth": 590,
+    "timeDay": 773,
+    "timeWeek": 580,
+    "timeMonth": 600,
     "timeYear": 566,
     "dailyMinutesDown": {}
   },
@@ -112,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 548,
-    "timeDay": 525,
-    "timeWeek": 617,
-    "timeMonth": 575,
-    "timeYear": 544,
+    "time": 549,
+    "timeDay": 752,
+    "timeWeek": 633,
+    "timeMonth": 583,
+    "timeYear": 545,
     "dailyMinutesDown": {}
   },
   {
@@ -125,7 +124,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sandwalker.sbrk.org.ico",
     "slug": "mxs-sandwalker",
     "status": "down",
-    "uptime": "45.33%",
+    "uptime": "45.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -136,7 +135,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-27": 24,
+      "2024-08-28": 24,
+      "2024-08-27": 1440,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
@@ -499,8 +499,7 @@
       "2023-09-02": 1440,
       "2023-09-01": 1440,
       "2023-08-31": 1440,
-      "2023-08-30": 1440,
-      "2023-08-29": 1440
+      "2023-08-30": 1440
     }
   }
 ]
