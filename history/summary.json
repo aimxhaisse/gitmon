@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 615,
-    "timeDay": 367,
-    "timeWeek": 565,
-    "timeMonth": 628,
-    "timeYear": 614,
+    "time": 613,
+    "timeDay": 365,
+    "timeWeek": 552,
+    "timeMonth": 621,
+    "timeYear": 613,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 911,
-    "timeDay": 616,
-    "timeWeek": 746,
-    "timeMonth": 769,
-    "timeYear": 849,
+    "timeDay": 650,
+    "timeWeek": 754,
+    "timeMonth": 771,
+    "timeYear": 847,
     "dailyMinutesDown": {
       "2024-07-16": 488,
       "2024-07-15": 1042,
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 625,
-    "timeDay": 530,
-    "timeWeek": 610,
-    "timeMonth": 668,
-    "timeYear": 640,
+    "timeDay": 484,
+    "timeWeek": 602,
+    "timeMonth": 664,
+    "timeYear": 639,
     "dailyMinutesDown": {}
   },
   {
@@ -69,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 580,
-    "timeDay": 529,
-    "timeWeek": 588,
-    "timeMonth": 656,
-    "timeYear": 581,
+    "timeDay": 412,
+    "timeWeek": 562,
+    "timeMonth": 653,
+    "timeYear": 580,
     "dailyMinutesDown": {}
   },
   {
@@ -87,10 +87,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 570,
-    "timeDay": 460,
-    "timeWeek": 540,
-    "timeMonth": 594,
-    "timeYear": 572,
+    "timeDay": 534,
+    "timeWeek": 556,
+    "timeMonth": 595,
+    "timeYear": 571,
     "dailyMinutesDown": {}
   },
   {
@@ -104,10 +104,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 550,
-    "timeDay": 347,
-    "timeWeek": 553,
-    "timeMonth": 594,
+    "time": 551,
+    "timeDay": 612,
+    "timeWeek": 567,
+    "timeMonth": 598,
     "timeYear": 549,
     "dailyMinutesDown": {}
   },
@@ -117,7 +117,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sandwalker.sbrk.org.ico",
     "slug": "mxs-sandwalker",
     "status": "down",
-    "uptime": "44.05%",
+    "uptime": "44.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -128,7 +128,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-28": 26,
+      "2024-09-29": 29,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -491,8 +492,7 @@
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
-      "2023-10-01": 1440,
-      "2023-09-30": 1440
+      "2023-10-01": 1440
     }
   }
 ]
