@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 613,
-    "timeDay": 365,
-    "timeWeek": 552,
-    "timeMonth": 621,
+    "time": 614,
+    "timeDay": 881,
+    "timeWeek": 572,
+    "timeMonth": 634,
     "timeYear": 613,
     "dailyMinutesDown": {}
   },
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
-    "time": 911,
-    "timeDay": 650,
-    "timeWeek": 754,
-    "timeMonth": 771,
+    "time": 910,
+    "timeDay": 862,
+    "timeWeek": 744,
+    "timeMonth": 780,
     "timeYear": 847,
     "dailyMinutesDown": {
       "2024-07-16": 488,
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 625,
-    "timeDay": 484,
-    "timeWeek": 602,
-    "timeMonth": 664,
-    "timeYear": 639,
+    "timeDay": 706,
+    "timeWeek": 597,
+    "timeMonth": 669,
+    "timeYear": 640,
     "dailyMinutesDown": {}
   },
   {
@@ -69,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 580,
-    "timeDay": 412,
-    "timeWeek": 562,
-    "timeMonth": 653,
-    "timeYear": 580,
+    "timeDay": 684,
+    "timeWeek": 534,
+    "timeMonth": 658,
+    "timeYear": 581,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 570,
-    "timeDay": 534,
-    "timeWeek": 556,
-    "timeMonth": 595,
-    "timeYear": 571,
+    "time": 571,
+    "timeDay": 870,
+    "timeWeek": 588,
+    "timeMonth": 605,
+    "timeYear": 573,
     "dailyMinutesDown": {}
   },
   {
@@ -105,9 +105,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 551,
-    "timeDay": 612,
-    "timeWeek": 567,
-    "timeMonth": 598,
+    "timeDay": 595,
+    "timeWeek": 561,
+    "timeMonth": 603,
     "timeYear": 549,
     "dailyMinutesDown": {}
   },
@@ -117,7 +117,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sandwalker.sbrk.org.ico",
     "slug": "mxs-sandwalker",
     "status": "down",
-    "uptime": "44.01%",
+    "uptime": "43.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -128,7 +128,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-29": 29,
+      "2024-09-30": 28,
+      "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
@@ -491,8 +492,7 @@
       "2023-10-05": 1440,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
-      "2023-10-02": 1440,
-      "2023-10-01": 1440
+      "2023-10-02": 1440
     }
   }
 ]
