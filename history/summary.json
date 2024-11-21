@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 613,
     "timeDay": 548,
-    "timeWeek": 568,
-    "timeMonth": 563,
+    "timeWeek": 571,
+    "timeMonth": 561,
     "timeYear": 614,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
-    "time": 867,
-    "timeDay": 610,
-    "timeWeek": 649,
-    "timeMonth": 690,
-    "timeYear": 800,
+    "time": 866,
+    "timeDay": 758,
+    "timeWeek": 672,
+    "timeMonth": 695,
+    "timeYear": 799,
     "dailyMinutesDown": {
       "2024-07-16": 488,
       "2024-07-15": 1042,
@@ -51,8 +51,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 628,
-    "timeDay": 541,
-    "timeWeek": 549,
+    "timeDay": 551,
+    "timeWeek": 552,
     "timeMonth": 561,
     "timeYear": 644,
     "dailyMinutesDown": {}
@@ -69,8 +69,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 577,
-    "timeDay": 637,
-    "timeWeek": 542,
+    "timeDay": 543,
+    "timeWeek": 543,
     "timeMonth": 552,
     "timeYear": 581,
     "dailyMinutesDown": {}
@@ -87,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 575,
-    "timeDay": 627,
-    "timeWeek": 511,
-    "timeMonth": 654,
+    "timeDay": 507,
+    "timeWeek": 530,
+    "timeMonth": 653,
     "timeYear": 581,
     "dailyMinutesDown": {}
   },
@@ -105,8 +105,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 550,
-    "timeDay": 551,
-    "timeWeek": 535,
+    "timeDay": 550,
+    "timeWeek": 537,
     "timeMonth": 528,
     "timeYear": 550,
     "dailyMinutesDown": {}
@@ -117,7 +117,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sandwalker.sbrk.org.ico",
     "slug": "mxs-sandwalker",
     "status": "down",
-    "uptime": "42.08%",
+    "uptime": "42.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -128,7 +128,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-20": 28,
+      "2024-11-21": 28,
+      "2024-11-20": 1440,
       "2024-11-19": 1440,
       "2024-11-18": 1440,
       "2024-11-17": 1440,
@@ -491,8 +492,7 @@
       "2023-11-26": 1440,
       "2023-11-25": 1440,
       "2023-11-24": 1440,
-      "2023-11-23": 1440,
-      "2023-11-22": 1440
+      "2023-11-23": 1440
     }
   }
 ]
