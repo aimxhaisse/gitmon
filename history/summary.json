@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 614,
-    "timeDay": 917,
-    "timeWeek": 689,
-    "timeMonth": 597,
-    "timeYear": 615,
+    "timeDay": 622,
+    "timeWeek": 675,
+    "timeMonth": 599,
+    "timeYear": 614,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/an-aer.bzh.ico",
     "slug": "an-aer",
     "status": "up",
-    "uptime": "99.03%",
+    "uptime": "99.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 865,
-    "timeDay": 1027,
-    "timeWeek": 818,
-    "timeMonth": 721,
-    "timeYear": 795,
+    "timeDay": 789,
+    "timeWeek": 837,
+    "timeMonth": 727,
+    "timeYear": 793,
     "dailyMinutesDown": {
       "2024-07-16": 488,
       "2024-07-15": 1042,
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 628,
-    "timeDay": 804,
-    "timeWeek": 679,
-    "timeMonth": 590,
-    "timeYear": 646,
+    "time": 629,
+    "timeDay": 492,
+    "timeWeek": 660,
+    "timeMonth": 593,
+    "timeYear": 645,
     "dailyMinutesDown": {}
   },
   {
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 578,
-    "timeDay": 801,
-    "timeWeek": 669,
-    "timeMonth": 577,
+    "timeDay": 679,
+    "timeWeek": 685,
+    "timeMonth": 583,
     "timeYear": 583,
     "dailyMinutesDown": {}
   },
@@ -87,10 +87,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 575,
-    "timeDay": 755,
-    "timeWeek": 624,
-    "timeMonth": 681,
-    "timeYear": 582,
+    "timeDay": 466,
+    "timeWeek": 603,
+    "timeMonth": 675,
+    "timeYear": 581,
     "dailyMinutesDown": {}
   },
   {
@@ -105,10 +105,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 552,
-    "timeDay": 802,
-    "timeWeek": 613,
-    "timeMonth": 554,
-    "timeYear": 552,
+    "timeDay": 454,
+    "timeWeek": 574,
+    "timeMonth": 552,
+    "timeYear": 551,
     "dailyMinutesDown": {}
   },
   {
@@ -117,7 +117,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sandwalker.sbrk.org.ico",
     "slug": "mxs-sandwalker",
     "status": "down",
-    "uptime": "41.80%",
+    "uptime": "41.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -128,7 +128,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-28": 28,
+      "2024-11-29": 28,
+      "2024-11-28": 1440,
       "2024-11-27": 1440,
       "2024-11-26": 1440,
       "2024-11-25": 1440,
@@ -491,8 +492,7 @@
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
-      "2023-12-01": 1440,
-      "2023-11-30": 1440
+      "2023-12-01": 1440
     }
   }
 ]
