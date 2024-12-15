@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sbrk.org.ico",
     "slug": "sbrk",
     "status": "down",
-    "uptime": "95.14%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "95.11%",
+    "uptimeDay": "64.95%",
+    "uptimeWeek": "94.99%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "99.90%",
     "time": 615,
-    "timeDay": 555,
-    "timeWeek": 639,
-    "timeMonth": 639,
+    "timeDay": 0,
+    "timeWeek": 642,
+    "timeMonth": 644,
     "timeYear": 613,
     "dailyMinutesDown": {
-      "2024-12-14": 3
+      "2024-12-15": 32,
+      "2024-12-14": 473
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/an-aer.bzh.ico",
     "slug": "an-aer",
     "status": "down",
-    "uptime": "99.05%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.70%",
-    "time": 861,
-    "timeDay": 880,
-    "timeWeek": 786,
-    "timeMonth": 835,
+    "uptime": "99.02%",
+    "uptimeDay": "64.99%",
+    "uptimeWeek": "95.00%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "99.61%",
+    "time": 860,
+    "timeDay": 0,
+    "timeWeek": 807,
+    "timeMonth": 845,
     "timeYear": 788,
     "dailyMinutesDown": {
-      "2024-12-14": 2,
+      "2024-12-15": 32,
+      "2024-12-14": 472,
       "2024-07-16": 488,
       "2024-07-15": 1042,
       "2024-04-04": 33
@@ -48,18 +50,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blz.sbrk.org.ico",
     "slug": "blz-audio",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.83%",
+    "uptimeDay": "65.03%",
+    "uptimeWeek": "95.00%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "99.90%",
     "time": 632,
-    "timeDay": 704,
-    "timeWeek": 717,
-    "timeMonth": 640,
+    "timeDay": 0,
+    "timeWeek": 746,
+    "timeMonth": 643,
     "timeYear": 644,
     "dailyMinutesDown": {
-      "2024-12-14": 2
+      "2024-12-15": 32,
+      "2024-12-14": 472
     }
   },
   {
@@ -68,18 +71,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mxs.sbrk.org.ico",
     "slug": "mxs-blog",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.88%",
+    "uptimeDay": "65.06%",
+    "uptimeWeek": "95.01%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "99.90%",
     "time": 578,
-    "timeDay": 575,
-    "timeWeek": 594,
-    "timeMonth": 599,
+    "timeDay": 0,
+    "timeWeek": 612,
+    "timeMonth": 603,
     "timeYear": 584,
     "dailyMinutesDown": {
-      "2024-12-14": 1
+      "2024-12-15": 32,
+      "2024-12-14": 471
     }
   },
   {
@@ -88,18 +92,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/landing.mxs.sbrk.org.ico",
     "slug": "mxs-landing",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.89%",
+    "uptimeDay": "65.10%",
+    "uptimeWeek": "95.01%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "99.90%",
     "time": 575,
-    "timeDay": 473,
-    "timeWeek": 561,
-    "timeMonth": 563,
+    "timeDay": 0,
+    "timeWeek": 565,
+    "timeMonth": 566,
     "timeYear": 581,
     "dailyMinutesDown": {
-      "2024-12-14": 1
+      "2024-12-15": 32,
+      "2024-12-14": 471
     }
   },
   {
@@ -108,18 +113,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/detours.sbrk.org.ico",
     "slug": "mxs-detours",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.89%",
+    "uptimeDay": "65.13%",
+    "uptimeWeek": "95.02%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "99.90%",
     "time": 551,
-    "timeDay": 697,
-    "timeWeek": 589,
-    "timeMonth": 572,
+    "timeDay": 0,
+    "timeWeek": 598,
+    "timeMonth": 579,
     "timeYear": 552,
     "dailyMinutesDown": {
-      "2024-12-14": 0
+      "2024-12-15": 32,
+      "2024-12-14": 470
     }
   },
   {
@@ -128,7 +134,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sandwalker.sbrk.org.ico",
     "slug": "mxs-sandwalker",
     "status": "down",
-    "uptime": "41.23%",
+    "uptime": "41.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -139,7 +145,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-14": 970,
+      "2024-12-15": 32,
+      "2024-12-14": 1440,
       "2024-12-13": 1440,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
@@ -502,8 +509,7 @@
       "2023-12-20": 1440,
       "2023-12-19": 1440,
       "2023-12-18": 1440,
-      "2023-12-17": 1440,
-      "2023-12-16": 1440
+      "2023-12-17": 1440
     }
   }
 ]
